@@ -6,11 +6,7 @@ import java.util.Objects;
  * Class representing an educational institution.
  * Contains information about name, type, foundation year, student count and rating.
  *
- * This class was moved here from Lab3.java to avoid duplicate class definition
- * and to follow the Java convention of having one public top-level class per file.
- *
- * @author Student
- * @version 1.0
+ * @author Korotaiev Mykhailo
  */
 public class EducationalInstitution implements Comparable<EducationalInstitution> {
 	/** Name of the educational institution (for example, "Kyiv National University") */

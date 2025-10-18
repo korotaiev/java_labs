@@ -20,11 +20,6 @@ public class Lab3 {
      */
     public static void main(String[] args) {
     // Create array of educational institutions
-    // Note: the sample values (all entries) are initialized inside
-    // the helper method createInstitutions(). If your assignment requires
-    // that all variables and their values be defined directly in the
-    // executable method, you can move the initialization from
-    // createInstitutions() into this main method.
     EducationalInstitution[] institutions = createInstitutions();
         
         // Print array before sorting
